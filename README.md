@@ -1,0 +1,4 @@
+mimgc
+=====
+
+Monochrome image converter
